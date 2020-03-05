@@ -1,4 +1,4 @@
-# JSP 연습문제
+# Javascript 연습문제
 ## 로그인창 만들기
 ```
 <!DOCTYPE html>
